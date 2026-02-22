@@ -1,6 +1,6 @@
 # neural-net-from-scratch-numpy
 
-A pure Python/NumPy implementation of a 2-layer Neural Network designed to solve the non-linear "Spiral Dataset" challenge.
+A pure Python/NumPy implementation of a 2-layer Neural Network designed to solve the non-linear Spiral Dataset.
 
 ## Overview
 This project demonstrates the fundamental mathematics of Deep Learning without using high-level frameworks like TensorFlow or PyTorch. It implements:
