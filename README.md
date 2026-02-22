@@ -12,9 +12,9 @@ This project demonstrates the fundamental mathematics of Deep Learning without u
 ## Spiral Data
 The model is tested on a generated spiral dataset with 3 classes. Because the classes wrap around each other, a simple linear classifier would fail. This NN uses a hidden layer of 100 neurons to learn the complex decision boundaries.
 
-![Spiral Data](fig/Spiral_data.png)
+![Spiral Data](/figs/Spiral_data.png)
 
-![Decision boundary](fig/Decision_boundary.png)
+![Decision boundary](/figs/Decision_boundary.png)
 
 ## Libraries
 - **NumPy**: For all matrix operations and linear algebra.
