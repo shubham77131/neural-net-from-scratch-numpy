@@ -1,0 +1,7 @@
+## For all matrix operations and linear algebra
+
+numpy
+
+## For visualizing the decision boundary
+
+matplotlib
